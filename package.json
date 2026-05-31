@@ -2,7 +2,7 @@
   "name": "demorestaurant",
   "private": true,
   "version": "0.0.1",
-   "homepage":  "https://paanhutmockupwebsite.github.io/",
+    "homepage": "https://paanhutmockupwebsite.github.io/paanhutmockuptest/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -15,6 +15,7 @@
   "dependencies": {
     "axios": "^1.16.1",
     "bootstrap": "^5.3.8",
+    "gh-pages": "^6.3.0",
     "react": "^19.2.5",
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.2.5",

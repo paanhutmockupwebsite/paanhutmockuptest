@@ -1,0 +1,23 @@
+.headImg {
+    width: 100%;
+    height: auto;
+}
+
+.headImgMob {
+    width: 100%;
+    height: auto;
+    background-image: url(../assets/paanHutBackground.png);
+
+}
+
+
+
+.crop {
+
+    width: 100%;
+  height: auto;
+  margin: 0em 0em 0em 0em;
+
+
+
+}

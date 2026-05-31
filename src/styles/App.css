@@ -1,0 +1,31 @@
+/* global css */
+
+/* @keyframes smooth-appear {
+  to{
+    bottom: 20px;
+    opacity:1;
+  }
+}
+.container {
+  background: gray;
+  color:white;
+  padding: 20px;
+  position: fixed;
+  bottom: -100%;
+  opacity:0;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 10px;
+  animation: smooth-appear 1s ease forwards;
+} */
+
+.text{
+    margin-top: 5em;
+    margin-right: 5em;
+}
+
+.mobileText{
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
